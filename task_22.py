@@ -16,3 +16,4 @@ for i in range(m):
 print (list_1)
 print (sorted(set(list_1)))
 print (list_2)
+print (sorted(set(list_2)))
